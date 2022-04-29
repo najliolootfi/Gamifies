@@ -1,0 +1,7 @@
+Mirror in progress since Wed, 20 Apr 2022 02:24:08 .. please wait!
+winhttrack https://turnip.gg/ -O "/Users/najlio/websites/turnip" -Y -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=1529
+UID=501
+GID=501
+START=1650421448
